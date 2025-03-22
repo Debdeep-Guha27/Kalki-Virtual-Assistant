@@ -5,7 +5,7 @@ Kalki - Virtual Assistant
 Kalki is a sleek and interactive virtual assistant built using HTML, CSS, and JavaScript. It helps users perform various tasks efficiently, offering a simple yet modern interface.
 
 # Demo
-kalki-virtual-assistant-m9y1q0fk4-debdeep-guhas-projects.vercel.app
+Live here:- https://kalki-virtual-assistant.vercel.app/
 
 # Features
 Voice Command Support 
