@@ -1,26 +1,76 @@
-# Kalki-Virtual-Assistant
+
+# ⚡ Kalki - Your Personal Virtual Assistant
+
+---
+
+## ✨ Introduction
+
+*Kalki* is an intelligent, responsive, and lightweight virtual assistant built entirely using *HTML, **CSS, and **JavaScript*. It can perform basic tasks, answer questions, and provide a seamless user experience right from your browser — no installations, no dependencies!
+
+---
+
+## 🚀 Features
+
+- Voice & Text Interaction
+- Basic Commands Execution
+- Real-Time Responses
+- Responsive UI Design
+- Lightweight & Fast
+- Easy to Customize
+
+---
+
+## 🖥 Demo
+
+> *Live Preview:*  
+> [Click here to try Kalki](https://kalki-virtual-assistant.vercel.app/)  
+
+---
+
+## ⚙ Setup Instructions
+
+1. *Clone the Repository*
+
+bash
+git clone https://github.com/Debdeep-Guha27/Kalki-Virtual-Assistant
 
 
-Kalki - Virtual Assistant
-Kalki is a sleek and interactive virtual assistant built using HTML, CSS, and JavaScript. It helps users perform various tasks efficiently, offering a simple yet modern interface.
+2. *Navigate to Project Folder*
 
-# Demo
-Live here:- https://kalki-virtual-assistant.vercel.app/
+bash
+cd Kalki-Virtual-Assistant
 
-# Features
-Voice Command Support 
 
-Responsive UI
+3. *Open in Browser*
 
-Task Automation
+Simply open index.html in any modern web browser.
 
-Personalized User Interaction
+---
 
-Clean and Minimalist Design
+## 🛠 Technologies Used
 
-# Technologies Used
-HTML5 - Markup structure
+- *HTML5*  
+- *CSS3*  
+- *Vanilla JavaScript (ES6+)*
 
-CSS3 - Styling and animations
+---
 
-JavaScript - Core functionality and logic
+## 📌 Usage
+
+1. Type or speak a command (like "What is the time?" or "Open Google").
+2. Kalki processes your request and responds in real time.
+3. Easily extendable—add your custom commands in script.js.
+
+---
+
+## ✏ Customization
+
+- *Colors & Fonts*: Modify style.css to match your preferred theme.
+- *Commands*: Add/edit commands inside the script.js file.
+- *Voice Recognition*: Uses the Web Speech API — no external dependencies.
+
+---
+
+## 🤝 Contributing
+
+Pull requests and suggestions are welcome! Feel free to fork the repo and contribute.
