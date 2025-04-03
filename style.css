@@ -17,8 +17,8 @@
     justify-content: center;
     background-image:url('Opera -  R2 event.gif');
     background-repeat:no-repeat;
-    background-position:centre;
-    background-size:contain;
+    background-position:bottom;
+    background-size:auto;
 }
 
 .main .image-container {
