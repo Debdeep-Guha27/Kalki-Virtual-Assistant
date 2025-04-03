@@ -18,7 +18,7 @@
     background-image: url('Opera -  R2 event.gif');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover; 
+    background-size: contain; 
     padding: 20px;
     text-align: center;
 }
